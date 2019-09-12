@@ -26,6 +26,10 @@ note of interesting links
 - [control videogame with hand-code](https://github.com/vietnguyen1991/AirGesture) [_Fantastic_]
 - [control videogame with hand-video](https://www.youtube.com/watch?v=TT2Tjd_h9ew) [_Fantastic_]
 
+## START with ONNX Projects:
+- [START WITH ONNX](https://github.com/mufajjul/onnx-operationalisation)
+
+
 
 
 
