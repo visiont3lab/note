@@ -20,3 +20,12 @@ note of interesting links
 - [WebDNN: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
 - [FastAI PyTorch Serverless API (with AWS Lambda)](https://github.com/alecrubin/pytorch-serverless/)
 - [FastAI PyTorch in Production (discussion)](http://forums.fast.ai/t/fastai-pytorch-in-production/16928)
+
+
+## Funny Projects:
+- [control videogame with hand](https://github.com/vietnguyen1991/AirGesture,https://www.youtube.com/watch?v=TT2Tjd_h9ew&feature=youtu.be) [_Fantastic_]
+
+
+
+
+
