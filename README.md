@@ -23,7 +23,8 @@ note of interesting links
 
 
 ## Funny Projects:
-- [control videogame with hand](https://github.com/vietnguyen1991/AirGesture,https://www.youtube.com/watch?v=TT2Tjd_h9ew&feature=youtu.be) [_Fantastic_]
+- [control videogame with hand-code](https://github.com/vietnguyen1991/AirGesture) [_Fantastic_]
+- [control videogame with hand-video](https://www.youtube.com/watch?v=TT2Tjd_h9ew) [_Fantastic_]
 
 
 
