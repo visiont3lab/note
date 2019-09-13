@@ -34,9 +34,7 @@ note of interesting links
 - [ONNX RUNTIME- complete tutorial JETSON NANO+ UP SQUARED](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Train-with-Azure-ML-and-deploy-everywhere-with-ONNX-Runtime) [FANTASTIC]  
 
 
-
-
-- [xxxxx](https://site) [_comment_] 
+- [Accelerating Python with FPGAs](https://www.youtube.com/watch?v=b_KXFaFRGRY&t=1326s) [ FPGA ] 
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
