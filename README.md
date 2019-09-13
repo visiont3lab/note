@@ -30,10 +30,7 @@ note of interesting links
 - [START WITH ONNX](https://github.com/mufajjul/onnx-operationalisation)
 - [ONNX RUNTIME](https://cloudblogs.microsoft.com/opensource/2019/05/22/onnx-runtime-machine-learning-inferencing-0-4-release/)
 - [ONNX RUNTIME-NOTEBOOK AND TUTORIAL](https://github.com/microsoft/onnxruntime)
-
-
-
-
+- [ONNX RUNTIME-OPENVINO](https://cloudblogs.microsoft.com/opensource/2019/08/26/announcing-onnx-runtime-0-5-edge-hardware-acceleration-support/)
 
 
 
