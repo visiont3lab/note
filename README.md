@@ -31,6 +31,20 @@ note of interesting links
 - [ONNX RUNTIME](https://cloudblogs.microsoft.com/opensource/2019/05/22/onnx-runtime-machine-learning-inferencing-0-4-release/)
 - [ONNX RUNTIME-NOTEBOOK AND TUTORIAL](https://github.com/microsoft/onnxruntime)
 - [ONNX RUNTIME-OPENVINO](https://cloudblogs.microsoft.com/opensource/2019/08/26/announcing-onnx-runtime-0-5-edge-hardware-acceleration-support/)
+- [ONNX RUNTIME- complete tutorial JETSON NANO+ UP SQUARED](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Train-with-Azure-ML-and-deploy-everywhere-with-ONNX-Runtime) [FANTASTIC]  
+
+
+
+
+- [xxxxx](https://site) [_comment_] 
+- [xxxxx](https://site) [_comment_]  
+- [xxxxx](https://site) [_comment_]  
+- [xxxxx](https://site) [_comment_]  
+- [xxxxx](https://site) [_comment_]  
+- [xxxxx](https://site) [_comment_]  
+
+
+
 
 
 
