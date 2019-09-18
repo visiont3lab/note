@@ -33,6 +33,9 @@ note of interesting links
 - [ONNX RUNTIME-OPENVINO](https://cloudblogs.microsoft.com/opensource/2019/08/26/announcing-onnx-runtime-0-5-edge-hardware-acceleration-support/)
 - [ONNX RUNTIME- complete tutorial JETSON NANO+ UP SQUARED](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Train-with-Azure-ML-and-deploy-everywhere-with-ONNX-Runtime) [FANTASTIC]  
 
+## Keras Model from Google:
+- [python models for deep learning](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo) [_to must to see_]  
+
 
 - [Accelerating Python with FPGAs](https://www.youtube.com/watch?v=b_KXFaFRGRY&t=1326s) [ FPGA ] 
 - [xxxxx](https://site) [_comment_]  
@@ -40,6 +43,7 @@ note of interesting links
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
+
 
 
 
