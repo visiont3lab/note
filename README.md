@@ -36,7 +36,7 @@ note of interesting links
 ## Keras Model from Google:
 - [python models for deep learning](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo) [_to must to see_]  
 
-
+## Acellerate with FPGA:
 - [Accelerating Python with FPGAs](https://www.youtube.com/watch?v=b_KXFaFRGRY&t=1326s) [ FPGA ] 
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
