@@ -38,7 +38,14 @@ note of interesting links
 
 ## Acellerate with FPGA:
 - [Accelerating Python with FPGAs](https://www.youtube.com/watch?v=b_KXFaFRGRY&t=1326s) [ FPGA ] 
-- [xxxxx](https://site) [_comment_]  
+
+
+## Project Zoo:
+- [Project Zoo](https://modelzoo.co/) [_BEST EVER]  
+
+
+
+## XXX
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
