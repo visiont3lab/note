@@ -1,6 +1,13 @@
 # note
 note of interesting links
 
+## XXX
+- [xxxxx](https://site) [_comment_]  
+
+## OpenCV Deep Learning
+- [All models pre-trained for OpenCV](https://github.com/opencv/opencv/wiki/Deep-Learning-in-OpenCV) [_must to follow]  
+
+
 ## Convert PyTorch Models in Production:
 - [PyTorch Production Level Tutorials](https://pytorch.org/tutorials/#production-usage) [_Fantastic_]  
 - [The road to 1.0: production ready PyTorch](https://pytorch.org/2018/05/02/road-to-1.0.html)
