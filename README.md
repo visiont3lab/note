@@ -44,7 +44,7 @@ note of interesting links
 
 ## OCR - Tesseract
 - [Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract) [_from google] 
-
+- [Tesseract import new fonts](https://github.com/astutejoe/tesseractfonts) [from developer]  
 
 ## XXX
 - [xxxxx](https://site) [_comment_]  
