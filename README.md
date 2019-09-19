@@ -43,11 +43,11 @@ note of interesting links
 - [Project Zoo](https://modelzoo.co/) [_BEST EVER]  
 
 ## OCR - Tesseract
-- [xxxxx](https://github.com/tesseract-ocr/tesseract) [_from google] 
+- [Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract) [_from google] 
 
 
 ## XXX
-- [Tesseract Open Source OCR Engine (main repository)](https://site) [_comment_]  
+- [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
