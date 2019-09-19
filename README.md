@@ -1,5 +1,4 @@
-# note
-note of interesting links
+# T3LAB notes:
 
 ## XXX
 - [xxxxx](https://site) [_comment_]  
