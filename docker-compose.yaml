@@ -1,0 +1,37 @@
+version: '3.3'
+services:
+  deep_learning:
+    image: "ufoym/deepo:all-jupyter-py36-cu100"
+    container_name: deep_learning_gpu
+    volumes:
+     - "/home/visionlab/GDRIVE:/home/GDRIVE"
+     - "/tmp/.X11-unix:/tmp/.X11-unix"
+     - "/etc/localtime:/etc/localtime:ro"
+     - "/dev/video0:/dev/video0"
+    #restart: always
+    environment:
+     - "DISPLAY=$DISPLAY"
+     - "PYTHONUNBUFFERED=1"
+     - "QT_X11_NO_MITSHM=1"
+    network_mode: "host"
+    ports:
+     - "30000:30000"
+     - "8888:8888" 
+     #command: bash -c "python --version"
+  
+# Portainer Server
+  portainer-server:
+    image: portainer/portainer  
+    container_name: portainer_server
+    restart: always
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock"
+      - "portainer_data:/data_portainer"
+    ports:
+      - "8000:8000"
+      - "9000:9000"
+      
+# Postgres persistent volume, Portainer volume extra   
+volumes:
+  portainer_data:
+
