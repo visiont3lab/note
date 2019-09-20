@@ -3,9 +3,13 @@
 ## XXX
 - [xxxxx](https://site) [_comment_]  
 
+
+
 ## OpenCV Deep Learning
 - [All models pre-trained for OpenCV](https://github.com/opencv/opencv/wiki/Deep-Learning-in-OpenCV) [_must to follow]  
 
+## Docker
+- [jupyter-docker-Heroku](https://www.codingforentrepreneurs.com/blog/jupyter-production-server-on-docker-heroku) [_good]
 
 ## Convert PyTorch Models in Production:
 - [PyTorch Production Level Tutorials](https://pytorch.org/tutorials/#production-usage) [_Fantastic_]  
