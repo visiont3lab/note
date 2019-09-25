@@ -3,6 +3,8 @@
 ## XXX
 - [xxxxx](https://site) [_comment_]  
 
+## XXX
+- [best dataset image-video-text](http://www.robots.ox.ac.uk/~vgg/data/) [_comment_]  
 
 ## MXNET
 - [School of MXNET-Gluon](https://www.d2l.ai/chapter_computer-vision/rcnn.html) [_good]
@@ -61,29 +63,3 @@
 ## XXX
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
-- [xxxxx](https://site) [_comment_]  
-- [xxxxx](https://site) [_comment_]  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
