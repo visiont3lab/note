@@ -51,6 +51,7 @@
 - [python models for deep learning](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer/tree/master/zoo) [_to must to see_]  
 
 ## Acellerate with FPGA:
+- [LE-Flow- BLOG](https://www.nextplatform.com/2018/07/24/clearing-the-tensorflow-to-fpga-path/) [FPGA_] 
 - [LE-Flow TF to FPGA](https://github.com/danielholanda/LeFlow/tree/master/examples) [_FPGA]  
 - [Accelerating Python with FPGAs](https://www.youtube.com/watch?v=b_KXFaFRGRY&t=1326s) [ FPGA ] 
 
