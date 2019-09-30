@@ -1,5 +1,9 @@
 # T3LAB notes:
 
+
+
+[xxxxx](https://site) [_comment_]  
+
 ## XXX
 - [xxxxx](https://site) [_comment_]  
 
@@ -39,6 +43,7 @@
 ## Funny Projects:
 - [control videogame with hand-code](https://github.com/vietnguyen1991/AirGesture) [_]
 - [control videogame with hand-video](https://www.youtube.com/watch?v=TT2Tjd_h9ew) [_]
+- [Learn how to morph faces with a Generative Adversarial Network!](https://youtu.be/dCKbRCUyop8) [_GAN ]  
 
 ## START with ONNX Projects:
 - [START WITH ONNX](https://github.com/mufajjul/onnx-operationalisation)
