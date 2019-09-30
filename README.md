@@ -16,10 +16,25 @@
 ## OpenCV Deep Learning
 - [All models pre-trained for OpenCV](https://github.com/opencv/opencv/wiki/Deep-Learning-in-OpenCV) [_must to follow]  
 
+## PYTORCH
+
+- [Pytorch-In-Real-Life](https://github.com/pawangeek/Pytorch-In-Real-Life) [_pYTORCH PROJETS] 
+
 ## Docker
 - [jupyter-docker-Heroku](https://www.codingforentrepreneurs.com/blog/jupyter-production-server-on-docker-heroku) [_good]
 
+## DATASET
+- [CAR MODELS CLASSIFICATIONS](https://medium.com/@wengsengh/car-model-classification-e1ff09573f4f) [_CAR MODELS_]  
+
+## R-CNN
+- [VisualComputingInstitute/TrackR-CNN](https://github.com/VisualComputingInstitute/TrackR-CNN/tree/master) [_comment_]  
+
+
+
+
 ## Convert PyTorch Models in Production:
+
+- [TRANSFERING A MODEL FROM PYTORCH TO CAFFE2 AND MOBILE USING ONNX](https://pytorch.org/tutorials/advanced/super_resolution_with_caffe2.html#sphx-glr-download-advanced-super-resolution-with-caffe2-py) [_GOOD]  
 - [PyTorch Production Level Tutorials](https://pytorch.org/tutorials/#production-usage) [_Fantastic_]  
 - [The road to 1.0: production ready PyTorch](https://pytorch.org/2018/05/02/road-to-1.0.html)
 - [PyTorch 1.0 tracing JIT and LibTorch C++ API to integrate PyTorch into NodeJS](http://blog.christianperone.com/2018/10/pytorch-1-0-tracing-jit-and-libtorch-c-api-to-integrate-pytorch-into-nodejs/) [_Good Article_]
