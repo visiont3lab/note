@@ -6,6 +6,9 @@
 - [PYTORCH DESCRIBE IMAGES](https://github.com/fawazsammani/look-and-modify/blob/master/README.md) [_comment_] 
 - [PYTORCH](https://github.com/fawazsammani/knowing-when-to-look-adaptive-attention) [_comment_]  
 
+# MAKE YOUR TINY YOLOv3:
+- [tINY YOLO V3](https://www.ctolib.com/Deep-Learning-Studyroom-yolo_v3_tensorflow.html) [_YOLO CUSTOM_]  
+
 ## TVM
 - [TVM-VTA](https://sampl.cs.washington.edu/tvmconf/2018) [_comment_]  
 - [VTA](https://www.groundai.com/project/vta-an-open-hardware-software-stack-for-deep-learning/1) [_comment_]
