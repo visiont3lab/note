@@ -1,6 +1,10 @@
 # T3LAB notes:
-[xxxxx](https://site) [_comment_]  
-[xxxxx](https://site) [_comment_]  
+- [xxxxx](https://site) [_comment_]  
+- [xxxxx](https://site) [_comment_]  
+
+# DESCRIBE IMAGES:
+- [PYTORCH DESCRIBE IMAGES](https://github.com/fawazsammani/look-and-modify/blob/master/README.md) [_comment_] 
+- [PYTORCH](https://github.com/fawazsammani/knowing-when-to-look-adaptive-attention) [_comment_]  
 
 ## TVM
 - [TVM-VTA](https://sampl.cs.washington.edu/tvmconf/2018) [_comment_]  
