@@ -2,6 +2,9 @@
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
 
+- [GOD](https://www.youtube.com/watch?v=KFrEPCOA0p4&list=PLgB5c9xg9C91DJ30WFlHfHAhMECeho-gU&index=2
+e) [_comment_] 
+
 # DESCRIBE IMAGES:
 - [PYTORCH DESCRIBE IMAGES](https://github.com/fawazsammani/look-and-modify/blob/master/README.md) [_comment_] 
 - [PYTORCH](https://github.com/fawazsammani/knowing-when-to-look-adaptive-attention) [_comment_]  
