@@ -2,6 +2,8 @@
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
 
+- [ALBUMENTATION](https://github.com/albu/albumentations) [LIBRARY COMPUTER_VISION_]  
+
 - [GOD](https://www.youtube.com/watch?v=KFrEPCOA0p4&list=PLgB5c9xg9C91DJ30WFlHfHAhMECeho-gU&index=2) [_comment_] 
 
 # DESCRIBE IMAGES:
