@@ -2,6 +2,9 @@
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
 
+
+
+- [Deep Learning in Medical AI 2018/2019](https://github.com/tensorflow/tensorboard/tree/master/docs) [_comment_]  
 - [ALBUMENTATION](https://github.com/albu/albumentations) [LIBRARY COMPUTER_VISION_]  
 - [GOD-GITHUB](https://github.com/JdeRobot/neuralFPGA) [_comment_] 
 - [GOD-YOUTUBE](https://www.youtube.com/watch?v=KFrEPCOA0p4&list=PLgB5c9xg9C91DJ30WFlHfHAhMECeho-gU&index=2) [_comment_] 
