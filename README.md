@@ -4,6 +4,7 @@
 
 
 
+- [COLAB DEEP LEARNING ADVANCED (https://github.com/tugstugi/dl-colab-notebooks) [GOOD]  
 - [Deep Learning in Medical AI 2018/2019](https://github.com/tensorflow/tensorboard/tree/master/docs) [_comment_]  
 - [ALBUMENTATION](https://github.com/albu/albumentations) [LIBRARY COMPUTER_VISION_]  
 - [GOD-GITHUB](https://github.com/JdeRobot/neuralFPGA) [_comment_] 
