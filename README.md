@@ -2,6 +2,9 @@
 - [xxxxx](https://site) [_comment_]  
 - [xxxxx](https://site) [_comment_]  
 
+# Kubernetes:
+- [MicroK8s](https://thenewstack.io/deploy-a-single-node-kubernetes-instance-in-seconds-with-microk8s/) [_comment_]  
+
 ## Jetson:
 - [OpenCv Jetson+camera usb](https://thenewstack.io/tutorial-configure-nvidia-jetson-nano-as-an-ai-testbed/) [_comment_]  
 
