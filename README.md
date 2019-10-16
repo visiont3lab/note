@@ -8,8 +8,10 @@
 ## Jetson:
 - [OpenCv Jetson+camera usb](https://thenewstack.io/tutorial-configure-nvidia-jetson-nano-as-an-ai-testbed/) [_comment_]  
 
-## Varie:
+## Parallel Thread MPI4py:
+- [CINECA SUMMER PARALLEL MPI4py](https://hpc-forge.cineca.it/files/ScuolaCalcoloParallelo_WebDAV/public/anno-2017/26th_Summer_School_on_Parallel_Computing/Bologna/) [_comment_] 
 
+## Varie:
 - [streamlit](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace) [_comment_]  
 - [COLAB DEEP LEARNING ADVANCED](https://github.com/tugstugi/dl-colab-notebooks) [GOOD]  
 - [Deep Learning in Medical AI 2018/2019](https://github.com/tensorflow/tensorboard/tree/master/docs) [_comment_]  
