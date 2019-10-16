@@ -5,6 +5,8 @@
 
 # Distillation:
 - [Disttilation GitHub](https://github.com/dkozlov/awesome-knowledge-distillation) [_comment_]  
+- [Disttilation Pytorch](https://github.com/NervanaSystems/distiller) [_comment_]  
+
 
 # Kubernetes:
 - [MicroK8s](https://thenewstack.io/deploy-a-single-node-kubernetes-instance-in-seconds-with-microk8s/) [_comment_]  
