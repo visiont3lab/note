@@ -7,7 +7,6 @@
 - [Disttilation GitHub](https://github.com/dkozlov/awesome-knowledge-distillation) [_comment_]  
 - [Disttilation Pytorch](https://github.com/NervanaSystems/distiller) [_comment_]  
 
-
 # Kubernetes:
 - [MicroK8s](https://thenewstack.io/deploy-a-single-node-kubernetes-instance-in-seconds-with-microk8s/) [_comment_]  
 
@@ -16,8 +15,11 @@
 
 ## Parallel Thread MPI4py:
 - [CINECA SUMMER PARALLEL MPI4py](https://hpc-forge.cineca.it/files/ScuolaCalcoloParallelo_WebDAV/public/anno-2017/26th_Summer_School_on_Parallel_Computing/Bologna/) [_comment_] 
+- [Packt_parallel_comp](https://www.packtpub.com/application-development/python-parallel-programming-solutions-video) [_comment_]  
 
 ## Varie:
+- [REACT_CCTV](https://dev.to/graphtylove/how-to-automate-attendance-record-with-face-recognition-python-and-react-4413?fbclid=IwAR0UbGQ9p_SHhFyO6Dr3KHRVsqTfRMboPAOMqPWIjKPqO4Rs0hi2cQfrcsQ
+) [_GOOD_]  
 - [streamlit](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace) [_comment_]  
 - [COLAB DEEP LEARNING ADVANCED](https://github.com/tugstugi/dl-colab-notebooks) [GOOD]  
 - [Deep Learning in Medical AI 2018/2019](https://github.com/tensorflow/tensorboard/tree/master/docs) [_comment_]  
